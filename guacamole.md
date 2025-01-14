@@ -4,6 +4,3 @@
 * limes
 * salt
 * cilantro
-
-## Directions
-* add salt to bowl
